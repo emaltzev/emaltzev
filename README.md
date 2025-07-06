@@ -16,6 +16,16 @@
 
 👉 Каждый документ сопровождается кратким описанием. Смотрите репозитории внизу профиля.
 
+## 📩 Как связаться со мной: 
+<div>
+  <a href="https://t.me/sauronbook" target="_blank" title="Написать мне в Telegram">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+  </a>
+  <a href="mailto:Sauronbook123@yandex.ru" target="_blank" title="Отправить мне email">
+    <img src="https://www.milton.edu/wp-content/uploads/2016/06/email-icon-23.png" width="40" height="40" alt="mail" />
+  </a>
+</div>
+
 ## 🛠 Используемые инструменты:
   <div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="jira">
