@@ -47,3 +47,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" width="40" height="40" alt="bash">
   </div>
+
+  ## Тестовые артефакты
+
+- [Веб-тестирование](https://github.com/emaltzev/web)
+- [Мобильное тестирование](https://github.com/emaltzev/mobile)  
+- [Тестирование API](https://github.com/emaltzev/api)  
+- [Git и Bash](https://github.com/emaltzev/git_bash)  
+- [Базы данных](https://github.com/emaltzev/database)  
+- [Теория тестирования](https://github.com/emaltzev/theory)  
+- [Техники тест-дизайна](https://github.com/emaltzev/design)  
+- [Документация](https://github.com/emaltzev/docs)
