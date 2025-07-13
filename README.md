@@ -28,7 +28,7 @@
 
 ## 📄 My CV
 
-[![My CV](https://drive.google.com/file/d/1riNk-VrChB81WlVDooxS1T46wc3dr2Ib/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/1riNk-VrChB81WlVDooxS1T46wc3dr2Ib/view?usp=sharing)
 
 ## 🛠 Используемые инструменты:
   <div style="display: flex; align-items: center; gap: 15px;">
